@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Vickman</title>
+    <link>/</link>
+    <description>Recent content in Home on Vickman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 28 Mar 2019 12:42:22 +0100</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Some Bio</title>
+      <link>/sections/dracula/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/dracula/</guid>
+      <description>Data passionate data scientist with a focus on data management, analysis and presenting data. Intuitive, resourceful, curious statistician, extensive experience with advanced mathematics and statistics; able to work in a team and independently; able to multitask, prioritize and meet deadlines.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/sections/piercer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/piercer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:
+ https://github.</description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>/sections/what_hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/what_hugo/</guid>
+      <description>Hugo is a surname and male given name of Germanic origin Hugo, meaning &amp;ldquo;mind&amp;rdquo;. The English version of the name is Hugh, the Italian version is Ugo. For detailed history and etymology of the name, see Hugh (given name).
+Hugo is one of the most popular given names in Europe, ranking as high as #9 in Spain, and #8 in Belgium in 2006. April 1 is the name day of Hugo in many European countries.</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>/blog/rich_content/</link>
+      <pubDate>Thu, 28 Mar 2019 12:42:22 +0100</pubDate>
+      
+      <guid>/blog/rich_content/</guid>
+      <description>Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
+Instagram Simple Shortcode koloot.design   View More on Instagram   
+YouTube Privacy Enhanced Shortcode   
+Twitter Simple Shortcode “In addition to being more logical, asymmetry has the advantage that its complete appearance is far more optically effective than symmetry.</description>
+    </item>
+    
+    <item>
+      <title>Placeholder</title>
+      <link>/blog/placeholder/</link>
+      <pubDate>Thu, 28 Mar 2019 12:41:07 +0100</pubDate>
+      
+      <guid>/blog/placeholder/</guid>
+      <description>Mole et vultus populifer quaque primoque non Lorem est tota propiore conpellat pectoribus de pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
+ Exierant elisi ambit vivere dedere Duce pollice Eris modo Spargitque ferrea quos palude  Rursus nulli murmur; hastile inridet ut ab gravi sententia!</description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>/blog/markdown/</link>
+      <pubDate>Thu, 28 Mar 2019 12:39:56 +0100</pubDate>
+      
+      <guid>/blog/markdown/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emojis</title>
+      <link>/blog/emojis/</link>
+      <pubDate>Thu, 28 Mar 2019 12:24:47 +0100</pubDate>
+      
+      <guid>/blog/emojis/</guid>
+      <description>Emoji can be enabled in a Hugo project in a number of ways. The emojify function can be called directly in templates or Inline Shortcodes.
+To enable emoji globally, set enableEmoji to true in your site’s configuration and then you can type emoji shorthand codes directly in content files; e.g.
+  🙈 :see_no_evil:   🙉 :hear_no_evil:   🙊 :speak_no_evil:  The Emoji cheat sheet is a useful reference for emoji shorthand codes.</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/blog/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/blog/2015-07-23-r-rmarkdown/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+  </channel>
+</rss>
